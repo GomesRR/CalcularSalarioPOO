@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/08/23 22:14:21.547,=C:\Users\Ronilson.rodrigues\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/23 22:16:20.984,C:\Ronilson\Projetos_Git\CalcularSalarioPOO\pas\uPrincipal.pas=C:\Users\Ronilson.rodrigues\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/23 22:16:20.984,C:\Ronilson\Projetos_Git\CalcularSalarioPOO\pas\uPrincipal.dfm=C:\Users\Ronilson.rodrigues\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/08/23 22:16:42.066,C:\Ronilson\Projetos_Git\CalcularSalarioPOO\dpr\CalculasSalario.dproj=C:\Users\Ronilson.rodrigues\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/08/23 22:38:23.984,=C:\Ronilson\Projetos_Git\CalcularSalarioPOO\dpr\Unit1.pas</Transaction>
+    <Transaction>2024/08/23 22:39:56.326,C:\Ronilson\Projetos_Git\CalcularSalarioPOO\Classes\Classes.Trabalhador.pas=C:\Ronilson\Projetos_Git\CalcularSalarioPOO\dpr\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
